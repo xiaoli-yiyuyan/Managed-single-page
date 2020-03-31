@@ -2,4 +2,4 @@
 这里是**小李**的单页  
 也可以进行**托管你的单页**  
 如需托管,请联系**QQ:1584663768**哦~~  
-[page.瓦吉布斯.cf/page-xiaoli-bv_to_av.html](**BV转AV点这里呀**)
+[**BV转AV点这里呀**](/page-xiaoli/bv_to_av.html)

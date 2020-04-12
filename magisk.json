@@ -1,0 +1,21 @@
+{
+  "app": {
+    "version": "7.5.1",
+    "versionCode": "266",
+    "link": "https://page.xn--9pr05ummgc3q.cf/MagiskManager-v7.5.1.apk",
+    "note": "https://github.com/topjohnwu/Magisk/blob/manager-v7.4.0/app/src/main/res/raw/changelog.md"
+  },
+  "uninstaller": {
+    "link": "https://page.xn--9pr05ummgc3q.cf/Magisk-uninstaller-20190604.zip"
+  },
+  "magisk": {
+    "version": "20.4",
+    "versionCode": "20400",
+    "link": "https://page.xn--9pr05ummgc3q.cf/Magisk-v20.4.zip",
+    "md5": "9503FC692E03D60CB8897FF2753C193F"
+  },
+  "message":{
+  	"Power By":"Mintimate",
+  	"Address":"https://www.mintimate.cn"
+  }
+}
